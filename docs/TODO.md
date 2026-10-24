@@ -3,11 +3,11 @@
 Last updated: 2026-10-23
 
 ## Next up (do these first, in order)
-1. [ ] Install Docker (Docker Desktop on Windows, Docker Engine on Ubuntu) and confirm `docker --version` works
-2. [ ] Install Python 3.12 or 3.13 and confirm `python --version`
-3. [ ] Create the GitHub repo, copy these files in, first commit and push
-4. [ ] Create the venv and run `pip install -r requirements-dev.txt`
-5. [ ] Copy `.env.example` to `.env`, set real passwords, run `docker compose up -d`, confirm both containers are healthy
+1. [done] Install Docker (Docker Desktop on Windows, Docker Engine on Ubuntu) and confirm `docker --version` works
+2. [done] Install Python 3.12 or 3.13 and confirm `python --version`
+3. [done] Create the GitHub repo, copy these files in, first commit and push
+4. [done] Create the venv and run `pip install -r requirements-dev.txt`
+5. [done] Copy `.env.example` to `.env`, set real passwords, run `docker compose up -d`, confirm both containers are healthy
 
 ## Phase 1: Core (Day 1)
 - [ ] Project skeleton (`app/` package, `config.py` reading `.env`)
